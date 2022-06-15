@@ -1,0 +1,56 @@
+[
+  {
+    "name": "allusers",
+    "path": "/allusers",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\logappfront\\\\pages\\\\allusers.vue",
+    "chunkName": "pages/allusers"
+  },
+  {
+    "name": "createtag",
+    "path": "/createtag",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\logappfront\\\\pages\\\\createtag.vue",
+    "chunkName": "pages/createtag"
+  },
+  {
+    "name": "createuser",
+    "path": "/createuser",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\logappfront\\\\pages\\\\createuser.vue",
+    "chunkName": "pages/createuser"
+  },
+  {
+    "name": "loginpage",
+    "path": "/loginpage",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\logappfront\\\\pages\\\\loginpage.vue",
+    "chunkName": "pages/loginpage"
+  },
+  {
+    "name": "logs",
+    "path": "/logs",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\logappfront\\\\pages\\\\logs.vue",
+    "chunkName": "pages/logs"
+  },
+  {
+    "name": "tags",
+    "path": "/tags",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\logappfront\\\\pages\\\\tags.vue",
+    "chunkName": "pages/tags"
+  },
+  {
+    "name": "updateuser",
+    "path": "/updateuser",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\logappfront\\\\pages\\\\updateuser.vue",
+    "chunkName": "pages/updateuser"
+  },
+  {
+    "name": "userprofile",
+    "path": "/userprofile",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\logappfront\\\\pages\\\\userprofile.vue",
+    "chunkName": "pages/userprofile"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\logappfront\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
